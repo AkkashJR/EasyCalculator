@@ -22,17 +22,16 @@ NOTE: *********************
 
 ### ➕ Addition Operation
 ![Addition](Adding.png)
-![Addition](Adding Answer.png)
 
 
 ### ➖ Subtraction Operation
 ![Subtraction](Subtraction.png)
-![Subtraction](Sub Ans.png)
+
 
 ### ✖️ Multiplication Operation
 ![Multiplication](Multiply.png)
-![Multiplication](Multiply Ans.png)
+
 
 ### ➗ Division Operation
 ![Division](Dividing.png)
-![Division](Dividing Ans.png)
+
