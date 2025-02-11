@@ -21,17 +21,25 @@ NOTE: *********************
 ## 📸 Screenshots
 
 ### ➕ Addition Operation
-![Addition](Adding.png)
-
+**Input:**  
+![Addition](Adding.png)  
+**Output:**  
+![Addition Answer](Adding%20Answer.png)
 
 ### ➖ Subtraction Operation
-![Subtraction](Subtraction.png)
-
+**Input:**  
+![Subtraction](Subtraction.png)  
+**Output:**  
+![Subtraction Answer](Sub%20Ans.png)
 
 ### ✖️ Multiplication Operation
-![Multiplication](Multiply.png)
-
+**Input:**  
+![Multiplication](Multiply.png)  
+**Output:**  
+![Multiplication Answer](Multiply%20Ans.png)
 
 ### ➗ Division Operation
-![Division](Dividing.png)
-
+**Input:**  
+![Division](Dividing.png)  
+**Output:**  
+![Division Answer](Dividing%20Ans.png)
