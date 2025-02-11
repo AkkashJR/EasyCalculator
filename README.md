@@ -17,4 +17,4 @@ To build and run this app, follow these steps:
    git clone https://github.com/AkkashJR/EasyCalculator.git
 NOTE: *********************
 * The arithmetic operations while typing (eg: 9+9 then tapping on = gives 18 it won't show the question when tapping is equal to sign.
-* 
+  
